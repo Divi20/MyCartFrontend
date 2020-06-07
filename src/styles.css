@@ -1,0 +1,14 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #edf492;
+  
+}
+
+ul{
+  list-style-type: none;
+}

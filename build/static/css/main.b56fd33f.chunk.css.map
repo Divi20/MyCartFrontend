@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,4BAGE,eACF,CAEA,KACE,kBAEF,CAEA,GACE,oBACF","file":"main.b56fd33f.chunk.css","sourcesContent":[".btn,\n.jumbotron,\n.nav :hover {\n  border-radius: 0px;\n}\n\nbody {\n  background: #edf492;\n  \n}\n\nul{\n  list-style-type: none;\n}\n"]}
